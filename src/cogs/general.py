@@ -42,6 +42,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         f"Hi {user.mention_html()}! I'm a bot that can download files for you. "
         "Send me a file and I'll download it for you.\n\n"
         "Use /help to see available commands."
+        "Made By @TEV1L"
     )
 
 
